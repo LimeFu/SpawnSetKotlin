@@ -1,0 +1,13 @@
+name: SpawnSetKotlin
+version: '${project.version}'
+main: ua.limefu.me.spawnsetkotlin.SpawnSetKotlin
+authors: [ LimeFu ]
+description: SpawnSet
+commands:
+  spawn:
+    description: TP to spawn
+  setspawn:
+    description: spawn set
+  rspawn:
+    description: Reload plugin
+
